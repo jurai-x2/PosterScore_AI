@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "scannedAt": "2026-11-02T12:10:00.363Z",
+  "git": {
+    "available": false,
+    "commit": "unavailable",
+    "status": "clean or unavailable"
+  },
+  "files": [
+    {
+      "path": ".env.example",
+      "hash": "50e6e3090a472cf74444041a2e418c3799157d9229eb5dc71ae4ba8693cd89e1",
+      "bytes": 639
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "hash": "f95ffd7543f5b6ebd2f363f93e3b685e74cb1619f18b63e05e93f58a7ca45f72",
+      "bytes": 294
+    },
+    {
+      "path": ".gitignore",
+      "hash": "a63a0ec41781295c6a39e73aad1d8fd384919acd58986aa8c108553643b8870a",
+      "bytes": 33
+    },
+    {
+      "path": "AGENTS.md",
+      "hash": "730c531e8518eeeeafbe5ed11521733cabeca4ec9054938e0dae81eee55165af",
+      "bytes": 1206
+    },
+    {
+      "path": "docs/development-history/ARCHITECTURE_DECISIONS.md",
+      "hash": "2d2447d138019d4599418850b491b98eeb9a0dddbd655725b3ea2bfbc34498b5",
+      "bytes": 2432
+    },
+    {
+      "path": "docs/development-history/CHANGELOG.md",
+      "hash": "6608d22f79ac0b3336bbb23cf01042805fdf99addefaab47277231c9e7e45d56",
+      "bytes": 3104
+    },
+    {
+      "path": "docs/development-history/FEATURE_REGISTRY.md",
+      "hash": "a33fcfb2cb68c83b04639a8647bc2787ad0363b7d4d77771bf4b4f6bdfd4d6a8",
+      "bytes": 4315
+    },
+    {
+      "path": "docs/development-history/PROJECT_OVERVIEW.md",
+      "hash": "4ba423aee5ca532ddf32bd0eb32aad3a9a69d89ec2d5e144238c35e29032461b",
+      "bytes": 2820
+    },
+    {
+      "path": "docs/development-history/README.md",
+      "hash": "a7f3829bc96a851ecf593ee9957333ec4705af537b64a0905365290de98b9edc",
+      "bytes": 3333
+    },
+    {
+      "path": "docs/development-history/releases/RELEASE-001-mvp-baseline.md",
+      "hash": "5f9370e9c438113633764d42eae5fb3c11494b48076f0d6b55dd1f27eb170a44",
+      "bytes": 773
+    },
+    {
+      "path": "docs/development-history/REMOVED_FEATURES.md",
+      "hash": "ac2e75b5001f406ff1491bf92a5fad5770e48250c22772a7b8ffb4d4bd4cd9fe",
+      "bytes": 570
+    },
+    {
+      "path": "docs/development-history/snapshots/SNAPSHOT-001-baseline.md",
+      "hash": "0e78d84ca1335670866bbcb1315b498c90a3ab6a1077f78c9db23ff71b6bd970",
+      "bytes": 1325
+    },
+    {
+      "path": "index.html",
+      "hash": "5d857ff86c917655ccd1e9f422b538a94fb5fecb15363a11cd975bd13a49946b",
+      "bytes": 456
+    },
+    {
+      "path": "output/pdf/posterscore-ai-detailed-technical-report.pdf",
+      "hash": "3170d188f1be7a0afe1af5ea421e8275845519774cb25f5a388861dc64d12b01",
+      "bytes": 96269
+    },
+    {
+      "path": "output/pdf/posterscore-ai-project-overview.pdf",
+      "hash": "cf5e7208f034dcf5fed78eebfafb3bd696dac6f7f942c31b6ec4d390865eb0db",
+      "bytes": 77127
+    },
+    {
+      "path": "package-lock.json",
+      "hash": "bc147b7486515c7d37d5d5d2ccd6809f54515ceea386f6a8d46eaf8aaa23bd8c",
+      "bytes": 172946
+    },
+    {
+      "path": "package.json",
+      "hash": "55b537fdd377b8b5a1b039f8a188be8d915b63e999961cc207c96b07778dd8e9",
+      "bytes": 1049
+    },
+    {
+      "path": "README.md",
+      "hash": "db20574057a687bd420782c013c88d3fcacae13a94c1ae97c6b85d154ee8d636",
+      "bytes": 8678
+    },
+    {
+      "path": "scripts/create_detailed_project_report_pdf.py",
+      "hash": "c089e190a5f687f15a3bf8cfe79bd75b7f9844ef651919b60eabf3eace894a82",
+      "bytes": 33218
+    },
+    {
+      "path": "scripts/create_project_overview_pdf.py",
+      "hash": "50967d4703e5af0b58d5e516249ce82c1e1e03197b1be7c6b9c56043f8c636ac",
+      "bytes": 14951
+    },
+    {
+      "path": "scripts/gemini-smoke.ts",
+      "hash": "926de5b6844a54a9fb0a24e32b491275d4fd3c1c5e587071b3eef72c52136605",
+      "bytes": 1543
+    },
+    {
+      "path": "scripts/update-history.mjs",
+      "hash": "2f1394bcf924125c7128d8d3e3c78671f14dfb27fddea3ee44721098e99894a3",
+      "bytes": 7854
+    },
+    {
+      "path": "server/analysis.ts",
+      "hash": "d7a8f2299e1d84f2ce4b90e18d353c84906901ee1435027728780558eee28d99",
+      "bytes": 28214
+    },
+    {
+      "path": "server/app.ts",
+      "hash": "046a9c422e77a640bb5fe62e0085044ee99fa897a46397706179b632751cf625",
+      "bytes": 11561
+    },
+    {
+      "path": "server/budget.ts",
+      "hash": "2f2317a11a43e020a85320d3374dacf67d2ecbf2b0a9948819b2e850e8c69669",
+      "bytes": 999
+    },
+    {
+      "path": "server/provider.ts",
+      "hash": "912e1a4f84078e93287c29758cf9be87fe97f66eb73420c7df1a23ea964262db",
+      "bytes": 6392
+    },
+    {
+      "path": "server/rules.ts",
+      "hash": "ecc6b4fac2210c0871ec0c9dcc5a0677d824fb15cc3c053ff0fa6c6ea7231363",
+      "bytes": 30806
+    },
+    {
+      "path": "server/server.ts",
+      "hash": "6dc9ff5548186a31b972c300a38ac90dea2edb1cc668af8d859cbd49ca0e9102",
+      "bytes": 175
+    },
+    {
+      "path": "server/timing.ts",
+      "hash": "da9611d41b835060173bf098565c1ec84591d68e77d2ec54a479c080fd1435e8",
+      "bytes": 544
+    },
+    {
+      "path": "server/validation.ts",
+      "hash": "5fe95247ef5b8e53aca8e343289d7086a8994188cdc3dad545f941b5a8f10633",
+      "bytes": 4959
+    },
+    {
+      "path": "server/vision.ts",
+      "hash": "0f2b4852a405c1f75d058a1f2ba55635806c466c34b3a79a29885589cc0f4593",
+      "bytes": 17060
+    },
+    {
+      "path": "src/analysisApi.test.ts",
+      "hash": "413dd5d8023bb2286cfc5a39457c5fb576484d92f2f6ddd0b3e4faad30c0da1e",
+      "bytes": 1203
+    },
+    {
+      "path": "src/analysisApi.ts",
+      "hash": "817b0d4fe0c8fa677018ee548e27c5e220547ac480ebfd440d45c2a5854aac84",
+      "bytes": 14290
+    },
+    {
+      "path": "src/App.tsx",
+      "hash": "18a291771ef621e3018931f320278181b21f941e4f11800d6830810513cc8131",
+      "bytes": 24618
+    },
+    {
+      "path": "src/main.tsx",
+      "hash": "2dae0f9e6e34f4d3798f3dfdfc4afb700732eda06ef4369e51a6d83700694c64",
+      "bytes": 231
+    },
+    {
+      "path": "src/rules.ts",
+      "hash": "b2d8b21d2c36ff5187509f83ff7a7a0eaf587c67a6d7d8bd78210fd6832247ec",
+      "bytes": 252
+    },
+    {
+      "path": "src/score.ts",
+      "hash": "c4ac3e3ba51f3afd63793a9af60f27db226185986c5e69a4e6d27f4b61c631b9",
+      "bytes": 1079
+    },
+    {
+      "path": "src/styles.css",
+      "hash": "fd2d3ea3efc5adc374239fbc807c291c7733a358b70034e5447c4a2114511786",
+      "bytes": 33455
+    },
+    {
+      "path": "src/types.ts",
+      "hash": "21f2305a620565cf7a95cdb79c30e47a7647dc5dfe4c617c6be3e54a553313c9",
+      "bytes": 3176
+    },
+    {
+      "path": "src/validate.ts",
+      "hash": "747595651fafe8df3dbd2dcb34ddc281ed4af4a7ab666323a7998c7defb6224c",
+      "bytes": 3815
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "hash": "852854b4224ea6e3d85c8a31aa886cc620c290513d26262d355d23544fca4c53",
+      "bytes": 167
+    },
+    {
+      "path": "tests/analysis.test.ts",
+      "hash": "93fba8a92a6d4a7c8ea6c1e188acf6ae99293e51e11e0f9a52c2095c993cbe91",
+      "bytes": 17491
+    },
+    {
+      "path": "tests/rules.test.ts",
+      "hash": "a35d13e43d194607a4e7cf56998ea0d2062f69015310f9895e3ead13e286e180",
+      "bytes": 2998
+    },
+    {
+      "path": "tests/validate-score.test.ts",
+      "hash": "83c843ac69774b469a660b6fcfb790114aa2affbe1c6a4f833c1bbfbb7c4120b",
+      "bytes": 4088
+    },
+    {
+      "path": "tsconfig.json",
+      "hash": "57502caa247979c814e1b380a2c906f09f356e1259b18a1557939cb9d6ffa6c2",
+      "bytes": 577
+    },
+    {
+      "path": "tsconfig.tsbuildinfo",
+      "hash": "11731383b446a96beafdfef2a7ab5c6cfb41fb1de3fe53d7a3ca55aa219b8961",
+      "bytes": 501
+    },
+    {
+      "path": "vite.config.ts",
+      "hash": "6a4645247882ce7e6b1ffd28e1e93437f59e48ad832c42a62b27827d738141db",
+      "bytes": 494
+    }
+  ]
+}
